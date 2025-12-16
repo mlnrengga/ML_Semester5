@@ -140,4 +140,4 @@ MIT License - Lihat file [LICENSE](LICENSE) untuk detail.
 
 ---
 
-**Note:** Model ini dibuat untuk tujuan edukasi dan penelitian. Untuk penggunaan komersial, mohon hubungi author terlebih dahulu.
+**Note:** Model Terlalu besar jadi untuk melihat modelnya bisa mengakses melalui repo di hugging face (https://huggingface.co/mlnrengga/batik-classifier/tree/main)
